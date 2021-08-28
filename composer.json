@@ -1,4 +1,11 @@
 {
+  "name": "ryzen/ryzen",
+  "authors": [
+    {
+      "name": "Raju Choudhary",
+      "email": "52706390+razoo-choudhary@users.noreply.github.com"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "app\\": "./"
